@@ -1,4 +1,4 @@
-# -Enhancing-Name-Gender-Classification-in-NLP-A-Naive-Bayes-Approach
+# Enhancing Name Gender Classification in NLP A Naive- Bayes Approach
 
 🌟 Developed a Name Gender Classifier using Naive Bayes to predict the gender of names.
 🔍 Utilized feature engineering techniques for improved accuracy, incorporating first and last letters, name length, contextual character combinations, and handling unisex names.
